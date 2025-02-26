@@ -1,7 +1,7 @@
 # KiCad Library for m.2 NGFF card
 
 ## Explanation
-This library targets to design for m.2 (NGFF) card.
+This library targets to design for m.2 (NGFF) card. The card is plugged into M2 connector of a computer. The PCB is 0.8mm thick.
 Our objective is expanding PC device for using robotics or so on as freely.
 And a main idea is stimulated [KiCad Mini PCI Express (mPCIe) Library](https://github.com/mithro/kicad-mini-pci-express).
 
